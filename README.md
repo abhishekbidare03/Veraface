@@ -1,7 +1,5 @@
 # Veraface: Offline Biometric Attendance System
 
-**NHAI Hackathon 7.0 | Team Submission**
-
 Veraface is a highly optimized, offline-first facial authentication system designed for field deployment. It provides sub-150ms inference times with dual-layer liveness detection, AES-256 encrypted storage, and secure AWS synchronization—all running entirely on commodity Android hardware without requiring an active internet connection.
 
 ---
